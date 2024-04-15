@@ -1,0 +1,51 @@
+.profile{
+    width: 200px;
+    height:280px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.473);
+    margin-left: 20px;
+    border: none;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+
+.profile-pic{
+    width: 200px;
+}
+
+.pic{
+    width: 200px;
+}
+
+.profile-details{
+    width: 200px;
+    
+}
+
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin: 7px;
+    
+}
+
+.mutual-friends{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: grey;
+    margin-top: 0px;
+    margin: 7px;
+}
+
+.add-friend{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: blue;
+    border: none;
+    width: 60px;
+    height: 40px;
+    margin: 5px;
+    border-radius: 16px;
+}

@@ -1,0 +1,109 @@
+
+
+.new{
+    color: orangered;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 5px;
+}
+
+.Macbookpro{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.supercharged{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.from{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 15px;
+
+}
+
+.buy{
+    
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 22px;
+    width: 66px;
+    height: 33px;
+    margin-left: 665px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+.stock-price{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    margin-bottom: 5px;
+}
+
+.usd{
+    font-size: 39px;
+    color: grey;
+}
+
+.green{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: rgb(2, 71, 2);
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.after{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: grey;
+    margin-top: 0px;
+    margin-bottom: 5px;
+
+}
+.red{
+    color: rgb(192, 14, 14);
+}
+
+.freecodecamp{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.fcc-grey{
+    color: grey;
+    font-weight: lighter;
+}
+
+.fcc-content{
+    width: 600px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fcc2{
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.username{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(91, 197, 247);
+}
+

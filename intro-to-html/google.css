@@ -1,0 +1,28 @@
+.google-logo{
+    width: 200px;
+    margin-bottom: 0px;
+  }
+
+  .gsearch{
+    border-radius: 40px;
+    border: none;
+    box-shadow: 2px 2px 10px rgb(143, 143, 143);
+    width: 320px;
+    padding-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+   
+  }
+  .g-logo{
+    text-align: center;
+    margin-bottom: 0px;
+  }
+  .g-search{
+    text-align: center;
+    margin-top: 0px;
+    
+  }
+
+  .buttons{
+    text-align: center;
+  }

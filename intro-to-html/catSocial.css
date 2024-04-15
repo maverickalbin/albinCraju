@@ -1,0 +1,87 @@
+.cat{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 100px;
+    vertical-align: middle;
+
+  }
+
+  .cat-box{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(88, 88, 88);
+    font-weight: 900;
+    border: none;
+    font-size: large;
+    vertical-align: middle;
+    margin-left: 5px;
+    
+
+  }
+
+  .cat-button{
+    color: white;
+    background-color: rgb(78, 137, 214);
+    width: 80px;
+    height: 50px;
+    border: none;
+    border-radius: 25px;
+    font-weight: 900;
+    font-size: 17px;
+    vertical-align: middle;
+  }
+
+  .catSocialDiv{
+    width: 440px;
+    height: 100px;
+    border: 4px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    box-shadow: 2px 2px 10px;
+    
+  }
+
+  .profiles{
+    width: 200px;
+    height: 320px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.411);
+    display: inline-block;
+    margin-right: 5px;
+  }
+
+  .catsquare{
+    width: 200px;
+    height: 200px;
+    
+  }
+
+  .profile-name{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    margin-bottom: 5px;
+    padding-left: 5px;
+  }
+
+  .mutual-friends{
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    margin-top: 0px;
+    font-size: medium;
+    padding-left: 5px;
+  }
+
+  .add{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: 500;
+    background-color: blue;
+    border-radius: 5px;
+    border: none;
+    width: 70px;
+    height: 35px;
+    margin-left: 5px;
+    
+  }
